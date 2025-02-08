@@ -30,8 +30,3 @@ Developing a news app using Kotlin that delivers real-time updates, personalized
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sbilalahmad /Sbilalahmad /output/snake.svg" alt="Snake animation" />
-
-###
