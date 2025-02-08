@@ -1,4 +1,4 @@
-![Playing Android]([https://www.google.com/search?clie](https://cdn.dribbble.com/users/2475489/screenshots/10958341/media/1a42f156117294570ccd94f0b79a7395.gif))
+![Playing Android](https://media.giphy.com/media/https://cdn.dribbble.com/users/2475489/screenshots/10958341/media/1a42f156117294570ccd94f0b79a7395.gif)
 # About Me:
 Developing a news app using Kotlin that delivers real-time updates, personalized news feeds, and offline reading capabilities.<br>Android projects, especially news apps or API-driven tools.<br>Optimizing API calls, Jetpack Compose, and scalable app architecture.<br>Kotlin, Jetpack Compose, and RESTful API integration.<br>My news app, Android dev challenges, or Kotlin tips.<br>Built a news app prototype in 48 hours during a hackathon!<br><br><br><br>
 
