@@ -1,4 +1,5 @@
-# 💫 About Me:
+![Playing Android](https://media.giphy.com/media/your-gif-url.gif)
+# About Me:
 Developing a news app using Kotlin that delivers real-time updates, personalized news feeds, and offline reading capabilities.<br>Android projects, especially news apps or API-driven tools.<br>Optimizing API calls, Jetpack Compose, and scalable app architecture.<br>Kotlin, Jetpack Compose, and RESTful API integration.<br>My news app, Android dev challenges, or Kotlin tips.<br>Built a news app prototype in 48 hours during a hackathon!<br><br><br><br>
 
 
