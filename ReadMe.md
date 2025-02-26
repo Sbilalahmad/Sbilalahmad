@@ -3,6 +3,9 @@
 Developing a news app using Kotlin that delivers real-time updates, personalized news feeds, and offline reading capabilities.<br>Android projects, especially news apps or API-driven tools.<br>Optimizing API calls, Jetpack Compose, and scalable app architecture.<br>Kotlin, Jetpack Compose, and RESTful API integration.<br>My news app, Android dev challenges, or Kotlin tips.<br>Built a news app prototype in 48 hours during a hackathon!<br><br><br><br>
 
 
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/syed22144?igsh=MzNlNGNkZWQ4Mg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-bilal-ahmad-454468203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@syedbilalahmad397) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/5x85LVPBJ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/29562515/syed-bilal-ahmad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gm2803@myamu.ac.in) 
 
@@ -27,6 +30,3 @@ Developing a news app using Kotlin that delivers real-time updates, personalized
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/SyedBilalAhmad) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
