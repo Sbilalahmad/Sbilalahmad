@@ -18,7 +18,7 @@
 
 # 💻 OSs used:
 <p align="center">
-  <img width="460" height="300" src="https://picsum.photos/460/300">
+  <img width="460" height="300" src="https://img.icons8.com/?size=100&id=P2AnGyiJxMpp&format=png&color=000000">
 </p>
 
 <p align="center">
