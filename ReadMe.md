@@ -5,6 +5,16 @@
 | zebra stripes | are neat        | $1    |
 
 
+| Programing  language| 
+| :------------------------: |
+| 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,dart,java,kotlin,py </a>
+</p>    | 
+
+
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=500&size=30&pause=1000&color=00F7F7&center=true&multiline=true&width=435&height=60&lines=Hi+I'm+Syed+Bilal+Ahmad" alt="Typing SVG" /></a>
 
