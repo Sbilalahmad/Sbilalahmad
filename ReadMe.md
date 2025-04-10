@@ -10,7 +10,7 @@
 </p> 
 
 
-#💡 IDEs used:
+# 💡 IDEs used:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,idea,pycharm,vscode"/></a>
