@@ -1,8 +1,4 @@
-![Playing Android](https://media.giphy.com/media/https://cdn.dribbble.com/users/2475489/screenshots/10958341/media/1a42f156117294570ccd94f0b79a7395.gif)
-# About Me:
-Developing a news app using Kotlin that delivers real-time updates, personalized news feeds, and offline reading capabilities.<br>Android projects, especially news apps or API-driven tools.<br>Optimizing API calls, Jetpack Compose, and scalable app architecture.<br>Kotlin, Jetpack Compose, and RESTful API integration.<br>My news app, Android dev challenges, or Kotlin tips.<br>Built a news app prototype in 48 hours during a hackathon!<br><br><br><br>
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%B9%D9%84%DB%8C%DA%A9%D9%85+%D9%88%D8%B1%D8%AD%D9%85%DB%83+%D8%A7%D9%84%D9%84%DB%81+%D9%88%D8%A8%D8%B1%DA%A9%D8%A7%D8%AA%DB%81+;This+is+Syed+Bilal+Ahmad" alt="Typing SVG" /></a>
 
 
 
