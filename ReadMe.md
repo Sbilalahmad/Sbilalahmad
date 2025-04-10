@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%B9%D9%84%DB%8C%DA%A9%D9%85+%D9%88%D8%B1%D8%AD%D9%85%DB%83+%D8%A7%D9%84%D9%84%DB%81+%D9%88%D8%A8%D8%B1%DA%A9%D8%A7%D8%AA%DB%81+;This+is+Syed+Bilal+Ahmad" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=00F7F7&center=true&multiline=true&width=435&lines=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%B9%D9%84%DB%8C%DA%A9%D9%85+%D9%88%D8%B1%D8%AD%D9%85%DB%83+%D8%A7%D9%84%D9%84%DB%81+%D9%88%D8%A8%D8%B1%DA%A9%D8%A7%D8%AA%DB%81+;This+is+Syed+Bilal+Ahmad" alt="Typing SVG" /></a>
 
 
 
