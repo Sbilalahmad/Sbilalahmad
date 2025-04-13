@@ -55,9 +55,8 @@
 
 </p>
 
-#⚙️ Build automation tool
+# ⚙️ Build automation tool
 <p align="center">
-<img width="50" height="50" src"">
 <img width="50" height="50" src="https://icon.icepanel.io/Technology/png-shadow-512/Gradle.png">
 <img width="50" height="50" src="https://icon.icepanel.io/Technology/svg/Apache-Maven.svg">
 </p>
