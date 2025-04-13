@@ -1,5 +1,4 @@
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=500&size=30&pause=1000&color=00F7F7&center=true&multiline=true&width=435&height=60&lines=Hi+I'm+Syed+Bilal+Ahmad" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=07F7AF&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi+I'm+Syed+Bilal+Ahmad;passionate+AI%2FML+learnger+%26+dev." alt="Typing SVG" /></a>
 
 
 ## 🌐 Socials:
