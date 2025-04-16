@@ -22,8 +22,7 @@
 
 <p align="center">
 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=P2AnGyiJxMpp&format=png&color=000000">
-
-    <img src="https://skillicons.dev/icons?i=arch,kali,ubuntu,windows"/></a>
+<img src="https://skillicons.dev/icons?i=arch,kali,ubuntu,windows"/>
 </p> 
 
 # ⬛ Terminal used:
