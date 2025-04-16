@@ -9,14 +9,12 @@
 
 # 🧑🏻‍💻 Programing Language:
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,dart,java,kotlin,py"/></a>
 </p> 
 
 
 # 💡 IDEs used:
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,idea,pycharm,vscode"/></a>
 </p> 
 
@@ -25,19 +23,16 @@
 <p align="center">
 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=P2AnGyiJxMpp&format=png&color=000000">
 
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,kali,ubuntu,windows"/></a>
 </p> 
 
 # ⬛ Terminal used:
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,powershell"/></a>
 </p> 
 
 # 🛢 DB used 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/></a>
 </p> 
 
