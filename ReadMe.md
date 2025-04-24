@@ -27,7 +27,8 @@
 
 # ⬛ Terminal used:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=bash,powershell"/></a>
+    <img src="https://www.vectorlogo.zone/logos/traeai/traeai-icon.svg"/>
+    <img src="https://skillicons.dev/icons?i=bash,powershell"/>
 </p> 
 
 # 🛢 DB used 
