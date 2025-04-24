@@ -15,7 +15,8 @@
 
 # 💡 IDEs used:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,pycharm,vscode"/></a>
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,pycharm,vscode"/>
+    <img width="50" height="50" src="https://www.vectorlogo.zone/logos/traeai/traeai-icon.svg"/>
 </p> 
 
 # 💻 OSs used:
@@ -27,7 +28,6 @@
 
 # ⬛ Terminal used:
 <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/traeai/traeai-icon.svg"/>
     <img src="https://skillicons.dev/icons?i=bash,powershell"/>
 </p> 
 
