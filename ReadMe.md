@@ -28,13 +28,13 @@
 
 # ⬛ Terminal used:
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Termux.svg/768px-Termux.svg.png?20220214141545"/>
+    <img  width="50" height="50"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Termux.svg/768px-Termux.svg.png?20220214141545"/>
     <img src="https://skillicons.dev/icons?i=bash,powershell"/>
 </p> 
 
 # 🛢 DB used 
 <p align="center">
-    <img width="50" height="50" src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/></a>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/></a>
 </p> 
 
 
