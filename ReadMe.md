@@ -13,9 +13,11 @@
 </p> 
 
 
-# 💡 IDEs used:
+# 💡 IDE & Dev Playground used:
 <p align="center">
     <img src="https://skillicons.dev/icons?i=androidstudio,idea,pycharm,vscode"/>
+    <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432"/>
+    <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png?20140912155123"/>
     <img width="50" height="50" src="https://www.vectorlogo.zone/logos/traeai/traeai-icon.svg"/>
 </p> 
 
