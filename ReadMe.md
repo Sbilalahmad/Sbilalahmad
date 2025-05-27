@@ -44,10 +44,10 @@
 # 🤖 Libraries
 <p align="center">
 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000">
-<img width="50" height="50" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000">
 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000">
 <img width="50" height="50" src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg">
 <img width="50" height="50" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg">
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000">
 <img width="50" height="50" src="https://icon.icepanel.io/Technology/svg/PyTorch.svg">
 
 </p>
