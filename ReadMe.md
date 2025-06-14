@@ -18,7 +18,7 @@
 
 # 💡 IDE & Dev Playground used:
 <p align="center">
-    <img width="50" height="50" src="Asset/HZ6f5FquoA-ezgif.com-effects.gif">
+    <img width="50" height="50" src="Asset/HZ6f5FquoA-ezgif.com-speed.gif">
     <img width="50" height="50" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZrdGljM2U0ZzNpYjA1Ymc3N3FldHBtbjJ0MnV6Zng5ZzA1eXdydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJWXxAr2Za6EtN2Row/giphy.gif">
     <img width="50" height="50" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTU0cWZkc3Vid3ByNXZleTFybm5tN3V1MzhzeWFucTY4dDlxaGFxZSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/cYU6YcPE5YlJxh6otp/giphy.gif">
     <img src="https://skillicons.dev/icons?i=vscode"/>
