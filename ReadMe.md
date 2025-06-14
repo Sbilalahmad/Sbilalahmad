@@ -1,5 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=07F7AF&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi+I'm+Syed+Bilal+Ahmad;passionate+AI%2FML+learnger+%26+dev." alt="Typing SVG" /></a>
 
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
