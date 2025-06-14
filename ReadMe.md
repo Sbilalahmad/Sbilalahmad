@@ -1,5 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&pause=1000&color=07F7AF&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi+I'm+Syed+Bilal+Ahmad;passionate+AI%2FML+learnger+%26+dev." alt="Typing SVG" /></a>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/syed22144?igsh=MzNlNGNkZWQ4Mg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-bilal-ahmad-454468203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@syedbilalahmad397) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/5x85LVPBJ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/29562515/syed-bilal-ahmad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gm2803@myamu.ac.in) 
