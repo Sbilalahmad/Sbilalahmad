@@ -21,7 +21,7 @@
     <img width="50" height="50" src="Asset/HZ6f5FquoA-ezgif.com-effects.gif">
     <img width="50" height="50" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZrdGljM2U0ZzNpYjA1Ymc3N3FldHBtbjJ0MnV6Zng5ZzA1eXdydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJWXxAr2Za6EtN2Row/giphy.gif">
     <img width="50" height="50" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTU0cWZkc3Vid3ByNXZleTFybm5tN3V1MzhzeWFucTY4dDlxaGFxZSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/cYU6YcPE5YlJxh6otp/giphy.gif">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode"/>
+    <img src="https://skillicons.dev/icons?i=vscode"/>
     <img width="50" height="50" src="https://www.vectorlogo.zone/logos/traeai/traeai-icon.svg"/>
     <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432"/>
     <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png?20140912155123"/>
